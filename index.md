@@ -4,7 +4,7 @@
 **Email:** tchima@ucsd.edu
 
 **Section:** Domain B23  
-**Mentor:** Murali Krishnam (Solix Technologies)
+**Mentors:** Justin Eldridge, Solix Mentors: Murali Krishnam, Raju Pusapati
 
 ---
 
